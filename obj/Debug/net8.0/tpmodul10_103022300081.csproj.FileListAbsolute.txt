@@ -1,0 +1,7 @@
+C:\Users\Subhan\source\repos\tpmodul10_103022300081\tpmodul10_103022300081\obj\Debug\net8.0\tpmodul10_103022300081.csproj.AssemblyReference.cache
+C:\Users\Subhan\source\repos\tpmodul10_103022300081\tpmodul10_103022300081\obj\Debug\net8.0\tpmodul10_103022300081.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhan\source\repos\tpmodul10_103022300081\tpmodul10_103022300081\obj\Debug\net8.0\tpmodul10_103022300081.AssemblyInfoInputs.cache
+C:\Users\Subhan\source\repos\tpmodul10_103022300081\tpmodul10_103022300081\obj\Debug\net8.0\tpmodul10_103022300081.AssemblyInfo.cs
+C:\Users\Subhan\source\repos\tpmodul10_103022300081\tpmodul10_103022300081\obj\Debug\net8.0\tpmodul10_103022300081.csproj.CoreCompileInputs.cache
+C:\Users\Subhan\source\repos\tpmodul10_103022300081\tpmodul10_103022300081\obj\Debug\net8.0\tpmodul10_103022300081.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Subhan\source\repos\tpmodul10_103022300081\tpmodul10_103022300081\obj\Debug\net8.0\tpmodul10_103022300081.MvcApplicationPartsAssemblyInfo.cache
